@@ -2,6 +2,6 @@
 
 ## Media Files
 
-- `submission/mozaikpay-nayrbryangaming.mp4`
-- `submission/bukti-akun-tiktok-analytics.jpg`
+- `submission/video-transferencia-mozaikpay.mp4`
+- `submission/estadisticas-audiencia-tiktok.jpg`
 - `index.html`
