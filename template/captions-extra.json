@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"from": 0, "to": 1, "text": "#publicidad"},
+    {"from": 0, "to": 1, "text": "Mi cuenta real de MozaikPay"},
+    {"from": 0, "to": 1, "text": "La comisión aparece antes de confirmar"},
+    {"from": 0, "to": 1, "text": "Entre usuarios no cobra"},
+    {"from": 0, "to": 1, "text": "Solo yo controlo mi plata. La app no la guarda."},
+    {"from": 0, "to": 1, "text": "¿Preguntas? Te leo en comentarios", "emphasis": true}
+  ]
+}

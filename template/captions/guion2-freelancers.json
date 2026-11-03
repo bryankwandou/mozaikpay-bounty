@@ -1,0 +1,50 @@
+{
+  "clip": "mi-grabacion.mp4",
+  "durationSec": 43,
+  "disclosure": "#publicidad",
+  "placeholder": false,
+  "clipOffsetY": 70,
+  "items": [
+    {
+      "from": 0,
+      "to": 5,
+      "text": "Trabajo con freelancers en Santiago y Bogotá. Cada semana hay facturas que pagar."
+    },
+    {
+      "from": 5,
+      "to": 11,
+      "text": "Por transferencia internacional, el pago tardaba 3 a 5 días hábiles. Me reclamaban."
+    },
+    {
+      "from": 11,
+      "to": 15,
+      "text": "Mi cuenta: @nayrbryangaming"
+    },
+    {
+      "from": 15,
+      "to": 20,
+      "text": "Pongo el monto de la factura"
+    },
+    {
+      "from": 20,
+      "to": 25,
+      "text": "No tiene la app, así que le genero un enlace de pago"
+    },
+    {
+      "from": 25,
+      "to": 31,
+      "text": "Le pongo la nota de la factura, cuándo vence y confirmo"
+    },
+    {
+      "from": 31,
+      "to": 37,
+      "text": "Se lo mando por chat. Instala la app y lo reclama."
+    },
+    {
+      "from": 37,
+      "to": 43,
+      "text": "Si no lo reclama, la plata vuelve sola a mi billetera. ¿Preguntas? Te leo.",
+      "emphasis": true
+    }
+  ]
+}

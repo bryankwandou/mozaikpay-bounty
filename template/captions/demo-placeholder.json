@@ -1,0 +1,44 @@
+{
+  "clip": "placeholder.mp4",
+  "durationSec": 20,
+  "disclosure": "#publicidad",
+  "placeholder": true,
+  "items": [
+    {
+      "from": 0,
+      "to": 2.5,
+      "text": "PLACEHOLDER · demo de la plantilla"
+    },
+    {
+      "from": 2.5,
+      "to": 5.5,
+      "text": "Transferir → monto"
+    },
+    {
+      "from": 5.5,
+      "to": 8.5,
+      "text": "\"Generar un enlace de pago\""
+    },
+    {
+      "from": 8.5,
+      "to": 11.5,
+      "text": "Le pongo una nota y cuándo vence"
+    },
+    {
+      "from": 11.5,
+      "to": 14.5,
+      "text": "Reviso y confirmo"
+    },
+    {
+      "from": 14.5,
+      "to": 17.5,
+      "text": "Si no lo reclama, la plata vuelve sola a mi billetera"
+    },
+    {
+      "from": 17.5,
+      "to": 20,
+      "text": "Aquí va tu grabación real de la app",
+      "emphasis": true
+    }
+  ]
+}

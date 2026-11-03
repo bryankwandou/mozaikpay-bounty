@@ -1,0 +1,61 @@
+I live in Makassar, and this week I read the full docs of a payments app that mostly works in Chile, Colombia and Argentina.
+
+Odd choice, I know. But it made me rethink what a "dollar app" actually has to get right.
+
+Notes on MozaikPay 🧵
+---
+The idea is simple. You keep your money in digital dollars on your phone, so it holds its value even when the local currency doesn't.
+
+Anyone who has checked the rupiah rate on a bad week gets why that matters.
+---
+@[MOZAIKPAY_HANDLE] lets you send those dollars to someone by username, and move in and out of pesos through licensed local partners inside the app.
+
+No account number to copy. You just type a name.
+---
+So why would someone in Indonesia care?
+
+Because holding dollars on a phone is the easy part. The hard part is the last mile: getting local money in and back out to your bank. That's where most apps get vague.
+---
+MozaikPay isn't vague about it. Local deposits and withdrawals work in Argentina, Chile and Colombia. Sending, receiving and payment links work anywhere.
+
+So from here I could hold and send, but I couldn't cash out to my bank. Fair to say that first.
+---
+The setup guide is short. Google, Apple or email, pick a username, set a 6-digit PIN, back up a recovery key.
+
+What made me slow down was the recovery password. MozaikPay doesn't keep it, and neither does iCloud or Google.
+---
+If you forget it, the backup can't restore your wallet.
+
+I've seen a lot of apps say "only you control your money." Fewer spell out what that costs you. This one puts it in the setup guide, not the fine print.
+---
+The feature I keep thinking about is the payment link.
+
+You pick an amount, add a note if you want, and choose when it expires, anywhere from 1 hour to 7 days. Then you share the link or a QR code.
+---
+The person on the other end doesn't need the app yet. They install it and claim the money.
+
+While the link is open, that amount is held from your balance. If nobody claims it, it comes back to you when it expires. You can also cancel it early.
+---
+The docs are blunt about one thing: whoever has the link can claim it.
+
+So I'd treat it like cash in an envelope. Send it to one person, in a chat you trust.
+---
+On fees, I'll only repeat what they publish. Sending between users is free. Adding money or withdrawing has a fee, and the app shows it before you confirm. No fixed numbers are listed, so I won't guess.
+---
+ID checks only kick in when you move between the wallet and local currency. Sending and receiving never need one.
+
+They also say they keep the result of the check, not a copy of your ID photo. I wish more apps wrote that down.
+---
+Under the hood the dollars are USDC from Circle, on Base. The app never makes you learn that. It just says dollars.
+
+For people who only want their savings to stop shrinking, I think that's the right call.
+---
+It has real limits, though. It's new: the iOS app came out in September 2026, and Google Play shows 50+ downloads. It's not a bank and balances aren't insured, which their own listing states. Cash-out is in 3 countries for now.
+---
+If you're looking at any app like this, read three pages first: who holds the keys, who the local partners are, and what happens if you lose your phone.
+
+MozaikPay answers all three in plain Spanish. Read those before you trust any thread, mine included.
+---
+If you're in Chile, Colombia or Argentina and you've tried adding money from your bank, I'd like to hear how it went.
+
+And @[MOZAIKPAY_HANDLE], if local rails ever come to Southeast Asia, Makassar is ready to test.

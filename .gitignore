@@ -1,0 +1,10 @@
+node_modules/
+.vercel/
+.next/
+out/
+dist/
+*.log
+Thumbs.db
+.DS_Store
+
+.vercel

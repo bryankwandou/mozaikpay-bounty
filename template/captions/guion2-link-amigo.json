@@ -1,0 +1,49 @@
+{
+  "clip": "mi-grabacion.mp4",
+  "durationSec": 48,
+  "disclosure": "#publicidad",
+  "placeholder": false,
+  "items": [
+    {
+      "from": 0,
+      "to": 4,
+      "text": "Le debía [monto] a [amigo] por [la cena]"
+    },
+    {
+      "from": 4,
+      "to": 9,
+      "text": "Transferir → monto"
+    },
+    {
+      "from": 9,
+      "to": 15,
+      "text": "\"Generar un enlace de pago\""
+    },
+    {
+      "from": 15,
+      "to": 22,
+      "text": "Le pongo una nota y cuándo vence"
+    },
+    {
+      "from": 22,
+      "to": 28,
+      "text": "Reviso y confirmo"
+    },
+    {
+      "from": 28,
+      "to": 35,
+      "text": "Se lo mando por [WhatsApp]. Él instala la app y lo reclama."
+    },
+    {
+      "from": 35,
+      "to": 42,
+      "text": "Si no lo reclama, la plata vuelve sola a mi billetera"
+    },
+    {
+      "from": 42,
+      "to": 48,
+      "text": "Ojo: quien tenga el link lo puede reclamar. Mándalo solo a esa persona.",
+      "emphasis": true
+    }
+  ]
+}

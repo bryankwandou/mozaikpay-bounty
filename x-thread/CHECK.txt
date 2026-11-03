@@ -1,0 +1,19 @@
+tweets: 16
+ 1/16  237 kar  OK  
+ 2/16  210 kar  OK  
+ 3/16  198 kar  OK  
+ 4/16  209 kar  OK  
+ 5/16  250 kar  OK  
+ 6/16  222 kar  OK  
+ 7/16  209 kar  OK  
+ 8/16  197 kar  OK  
+ 9/16  243 kar  OK  
+10/16  157 kar  OK  
+11/16  202 kar  OK  
+12/16  226 kar  OK  
+13/16  205 kar  OK  
+14/16  227 kar  OK  
+15/16  254 kar  OK  
+16/16  215 kar  OK  
+tag handle: 2 tweet (3 & 16)
+RESULT: PASS

@@ -1,0 +1,44 @@
+{
+  "clip": "mi-grabacion.mp4",
+  "durationSec": 47,
+  "disclosure": "#publicidad",
+  "placeholder": false,
+  "items": [
+    {
+      "from": 0,
+      "to": 4,
+      "text": "Vivo en Chile. Mi mamá vive en [ciudad], Colombia."
+    },
+    {
+      "from": 4,
+      "to": 10,
+      "text": "Cada mes le mando [para qué es de verdad]"
+    },
+    {
+      "from": 10,
+      "to": 17,
+      "text": "Cargo pesos chilenos desde mi banco"
+    },
+    {
+      "from": 17,
+      "to": 25,
+      "text": "Transferir → su usuario → nota \"[para el arriendo]\""
+    },
+    {
+      "from": 25,
+      "to": 31,
+      "text": "Le llega en segundos. Entre usuarios no cobra."
+    },
+    {
+      "from": 31,
+      "to": 40,
+      "text": "Ella lo pasa a pesos colombianos a su cuenta"
+    },
+    {
+      "from": 40,
+      "to": 47,
+      "text": "Así lo hacemos en mi familia. ¿Preguntas?",
+      "emphasis": true
+    }
+  ]
+}

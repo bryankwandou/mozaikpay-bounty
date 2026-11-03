@@ -1,0 +1,49 @@
+{
+  "clip": "mi-grabacion.mp4",
+  "durationSec": 50,
+  "disclosure": "#publicidad",
+  "placeholder": false,
+  "items": [
+    {
+      "from": 0,
+      "to": 4,
+      "text": "Me pagan en [pesos chilenos / colombianos]"
+    },
+    {
+      "from": 4,
+      "to": 9,
+      "text": "Así guardo una parte en dólares digitales"
+    },
+    {
+      "from": 9,
+      "to": 17,
+      "text": "Depósito → mi banco [método]"
+    },
+    {
+      "from": 17,
+      "to": 24,
+      "text": "La comisión aparece antes de confirmar"
+    },
+    {
+      "from": 24,
+      "to": 31,
+      "text": "Listo: queda en dólares digitales"
+    },
+    {
+      "from": 31,
+      "to": 39,
+      "text": "Solo yo controlo mi plata. La app no la guarda."
+    },
+    {
+      "from": 39,
+      "to": 46,
+      "text": "No es para ganar plata. Es para que [mi ahorro] siga en dólares."
+    },
+    {
+      "from": 46,
+      "to": 50,
+      "text": "¿Preguntas? Te leo en comentarios",
+      "emphasis": true
+    }
+  ]
+}

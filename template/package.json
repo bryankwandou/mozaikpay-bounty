@@ -1,0 +1,22 @@
+{
+  "name": "mozaikpay-caption-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "node scripts/render.mjs",
+    "pngs": "node scripts/make-pngs.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.509",
+    "@remotion/cli": "4.0.509",
+    "@remotion/renderer": "4.0.509",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.509"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
